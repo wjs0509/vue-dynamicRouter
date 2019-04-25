@@ -1,6 +1,6 @@
 # dynamicrouter
 
-> A Vue.js project
+> 关于vue动态加载路由的例子
 
 ## Build Setup
 
